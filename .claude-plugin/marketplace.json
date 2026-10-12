@@ -1,0 +1,15 @@
+{
+  "name": "aieffect",
+  "description": "Official AI Effect plugins",
+  "owner": {
+    "name": "AI Effect",
+    "url": "https://www.aieffect.art"
+  },
+  "plugins": [
+    {
+      "name": "aieffect",
+      "source": "./",
+      "description": "Generate AI images and videos from your agent with AI Effect."
+    }
+  ]
+}

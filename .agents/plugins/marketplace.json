@@ -1,0 +1,20 @@
+{
+  "name": "aieffect",
+  "interface": {
+    "displayName": "AI Effect"
+  },
+  "plugins": [
+    {
+      "name": "aieffect",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Entertainment"
+    }
+  ]
+}

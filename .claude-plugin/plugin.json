@@ -1,0 +1,14 @@
+{
+  "name": "aieffect",
+  "displayName": "AI Effect",
+  "version": "1.0.0",
+  "description": "Generate AI images and videos from your agent with AI Effect: Kling, Veo, Seedance, Hailuo, PixVerse, GPT Image, Nano Banana, Midjourney, Seedream, FLUX and more in one MCP server.",
+  "author": {
+    "name": "AI Effect",
+    "url": "https://www.aieffect.art"
+  },
+  "homepage": "https://www.aieffect.art/plugin",
+  "repository": "https://github.com/aieffect/aieffect-plugin",
+  "license": "MIT",
+  "keywords": ["ai-video", "ai-image", "text-to-video", "image-to-video", "text-to-image", "kling", "veo", "seedance", "mcp"]
+}

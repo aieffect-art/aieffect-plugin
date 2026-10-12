@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aieffect": {
+      "type": "http",
+      "url": "https://www.aieffect.art/api/mcp"
+    }
+  }
+}

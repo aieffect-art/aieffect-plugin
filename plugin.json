@@ -1,0 +1,34 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aieffect",
+  "version": "1.0.0",
+  "description": "Generate AI images and videos from your agent with AI Effect.",
+  "author": {
+    "name": "AI Effect",
+    "url": "https://www.aieffect.art"
+  },
+  "homepage": "https://www.aieffect.art/plugin",
+  "repository": "https://github.com/aieffect/aieffect-plugin",
+  "license": "MIT",
+  "keywords": ["ai-video", "ai-image", "text-to-video", "image-to-video", "text-to-image", "mcp"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "AI Effect",
+        "shortDescription": "Generate AI images and videos",
+        "longDescription": "Create images and videos from text or reference images with Kling, Veo, Seedance, Hailuo, PixVerse, GPT Image, Nano Banana, Midjourney, Seedream, FLUX and more. Check the exact credit cost before generating, upload local reference files, and get downloadable results.",
+        "developerName": "AI Effect",
+        "category": "Entertainment",
+        "capabilities": ["Read", "Write"],
+        "websiteURL": "https://www.aieffect.art",
+        "privacyPolicyURL": "https://www.aieffect.art/privacy-policy",
+        "termsOfServiceURL": "https://www.aieffect.art/terms-of-service",
+        "defaultPrompt": [
+          "Use AI Effect to make a 5-second vertical product video of my scarf rotating on a marble table.",
+          "Use AI Effect to generate 4 square thumbnails for a coffee brand launch post."
+        ],
+        "brandColor": "#1877F3"
+      }
+    }
+  }
+}
