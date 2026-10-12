@@ -73,6 +73,8 @@ Add a remote (HTTP) MCP server with the URL `https://www.aieffect.art/api/mcp` a
 - `.mcp.json` – MCP server configuration for Claude Code
 - `server.json` – MCP Registry entry (`io.github.aieffect-art/aieffect`)
 - `skills/aieffect/` – a skill that teaches the agent the quote → confirm → generate → poll workflow
+- `llms-install.md` – setup instructions for agents that install MCP servers themselves (e.g. Cline)
+- `logo.png` – 400×400 icon
 
 The plugin contains no code that runs on your machine; it only points your agent at the AI Effect MCP server.
 
