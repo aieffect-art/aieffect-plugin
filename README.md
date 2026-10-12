@@ -13,7 +13,7 @@ Generate AI images and videos right inside your AI agent.
 ### Claude Code
 
 ```bash
-claude plugin marketplace add aieffect/aieffect-plugin
+claude plugin marketplace add aieffect-art/aieffect-plugin
 claude plugin install aieffect@aieffect
 ```
 
@@ -71,7 +71,7 @@ Add a remote (HTTP) MCP server with the URL `https://www.aieffect.art/api/mcp` a
 - `.claude-plugin/` – Claude Code plugin manifest and marketplace
 - `plugin.json`, `mcp.json`, `.agents/plugins/marketplace.json` – Agent Plugins / Codex manifests
 - `.mcp.json` – MCP server configuration for Claude Code
-- `server.json` – MCP Registry entry (`io.github.aieffect/aieffect`)
+- `server.json` – MCP Registry entry (`io.github.aieffect-art/aieffect`)
 - `skills/aieffect/` – a skill that teaches the agent the quote → confirm → generate → poll workflow
 
 The plugin contains no code that runs on your machine; it only points your agent at the AI Effect MCP server.

@@ -8,7 +8,7 @@
     "url": "https://www.aieffect.art"
   },
   "homepage": "https://www.aieffect.art/plugin",
-  "repository": "https://github.com/aieffect/aieffect-plugin",
+  "repository": "https://github.com/aieffect-art/aieffect-plugin",
   "license": "MIT",
   "keywords": ["ai-video", "ai-image", "text-to-video", "image-to-video", "text-to-image", "mcp"],
   "extensions": {

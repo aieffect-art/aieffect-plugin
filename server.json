@@ -1,11 +1,11 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.aieffect/aieffect",
+  "name": "io.github.aieffect-art/aieffect",
   "title": "AI Effect",
   "description": "Generate AI images and videos (Kling, Veo, Seedance, GPT Image, Nano Banana and more) from your agent.",
   "websiteUrl": "https://www.aieffect.art/plugin",
   "repository": {
-    "url": "https://github.com/aieffect/aieffect-plugin",
+    "url": "https://github.com/aieffect-art/aieffect-plugin",
     "source": "github"
   },
   "version": "1.0.0",
